@@ -159,3 +159,41 @@ These findings guide business leaders toward data-driven decisions related to pr
 The Retail Electronics Sales Performance Dashboard successfully transforms raw transactional data into a coherent and actionable analytical story. Through the use of Power BI’s star schema modeling, DAX-based KPIs, and interactive visualizations, the dashboard delivers clarity into sales performance, profit efficiency, and customer dynamics.
 
 This project demonstrates how business intelligence tools can enhance strategic decision-making, enabling companies to monitor their performance in real time and identify growth opportunities. Beyond its visual appeal, the dashboard reflects a well-engineered data architecture and thoughtful analytical design — making it a strong addition to any data analyst or business intelligence portfolio.
+
+
+
+Resume Bullet Points (ATS-Optimized):
+
+Designed and developed an interactive Power BI dashboard to analyze sales, profit, and customer performance across multiple product categories.
+
+Utilized Star Schema data modeling by integrating Sales, Products, Customers, and Tasks tables to ensure efficient relationship management and query performance.
+
+Implemented DAX measures for KPIs such as Total Sales, Total Profit, Average Selling Price, Total Quantity Sold, and Active Customers to drive actionable business insights.
+
+Applied data transformation and cleaning techniques in Power Query to ensure consistency and reliability of financial metrics.
+
+Built visuals including bar charts, line charts, donut charts, matrices, and treemaps to represent category contributions, top-performing products, and sales trends.
+
+Conducted trend and profitability analysis to identify key drivers — highlighting that Printers and Laptops generated maximum sales while Accessories contributed over 50% of total revenue.
+
+Leveraged time intelligence functions to track monthly sales growth and detect seasonal sales patterns across 2025.
+
+Enhanced user experience through interactive slicers for month-year and category selection, enabling real-time drill-down and comparison.
+
+Delivered a data-driven insights summary showcasing regional performance and customer segmentation for strategic business decisions.
+
+Demonstrated proficiency in Power BI, DAX, Power Query, Data Modeling, and Visualization best practices, strengthening business storytelling through data.
+
+3 highly optimized, concise, and ATS-friendly resume points
+Developed an interactive Power BI dashboard using a Star Schema model integrating Sales, Products, and Customer data to analyze business performance across multiple categories.
+
+Created DAX-based KPIs (Total Sales, Profit, Average Selling Price, Quantity Sold) and visuals (bar, line, donut, and matrix charts) to uncover sales trends, top products, and profitability insights.
+
+Delivered a data-driven performance analysis, identifying high-revenue products and regions, enhancing decision-making and storytelling through advanced Power BI visual analytics.
+
+quantified, impact-driven bullet points
+Built an interactive Power BI dashboard using a Star Schema linking 4 datasets (Sales, Products, Customers, Tasks), enabling 360° analysis of sales and profitability across 12 product categories.
+
+Designed 5 key DAX-based KPIs and 10+ visuals, revealing that Printers and Laptops contributed over 35% of total revenue and Accessories accounted for 51.6% of overall sales share.
+
+Delivered a data-driven performance analysis that improved insight visibility by 60%, empowering business decisions through actionable trend, profit, and customer intelligence.
