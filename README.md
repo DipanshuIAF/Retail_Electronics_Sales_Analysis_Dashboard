@@ -184,14 +184,16 @@ Delivered a data-driven insights summary showcasing regional performance and cus
 
 Demonstrated proficiency in Power BI, DAX, Power Query, Data Modeling, and Visualization best practices, strengthening business storytelling through data.
 
-3 highly optimized, concise, and ATS-friendly resume points
+3 highly optimized, concise, and ATS-friendly resume points:
+
 Developed an interactive Power BI dashboard using a Star Schema model integrating Sales, Products, and Customer data to analyze business performance across multiple categories.
 
 Created DAX-based KPIs (Total Sales, Profit, Average Selling Price, Quantity Sold) and visuals (bar, line, donut, and matrix charts) to uncover sales trends, top products, and profitability insights.
 
 Delivered a data-driven performance analysis, identifying high-revenue products and regions, enhancing decision-making and storytelling through advanced Power BI visual analytics.
 
-quantified, impact-driven bullet points
+quantified, impact-driven bullet points:
+
 Built an interactive Power BI dashboard using a Star Schema linking 4 datasets (Sales, Products, Customers, Tasks), enabling 360° analysis of sales and profitability across 12 product categories.
 
 Designed 5 key DAX-based KPIs and 10+ visuals, revealing that Printers and Laptops contributed over 35% of total revenue and Accessories accounted for 51.6% of overall sales share.
